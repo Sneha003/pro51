@@ -1,0 +1,83 @@
+.head{
+      
+  background-color:white;
+  border:solid;
+   }
+
+   .note{
+     background-color:aqua;
+     
+   }
+
+.grid {
+  background: darkred;
+  background-color: #F0F8FF;
+  display: flex;
+  justify-content: last baseline;
+  flex-direction: row;
+  text-align: left;
+  flex-wrap: wrap;
+}
+
+.camel {
+  border-radius: 20px;
+  margin:25px;
+  width: 200px;
+  height: 500px;
+  padding: 50px;
+  background-color:#f171f5;
+  font-family:fantasy;
+}
+
+
+.chameleon {
+  border-radius: 20px;
+  margin:25px;
+  width: 200px;
+  height: 500px;
+  padding: 50px;
+  background-color:#f1d1b1;
+  font-family:fantasy;
+}
+
+.cicada {
+  border-radius: 20px;
+  margin:25px;
+  width: 200px;
+  height: 500px;
+  padding: 50px;
+  font-family:fantasy;
+  background-color:#f171f5;
+}
+
+.panda {
+  border-radius: 20px;
+  margin:25px;
+  width: 200px;
+  height: 500px;
+  padding: 50px;
+  font-family:fantasy;
+  background-color:#f1d1b1;
+}
+
+.pigeon {
+  border-radius: 20px;
+  margin:25px;
+  width: 200px;
+  height: 500px;
+  padding: 50px;
+  font-family:fantasy;
+  background-color:#f171f5;
+}
+
+.teddy {
+  border-radius: 20px;
+  margin:25px;
+  width: 200px;
+  height: 500px;
+  padding: 50px;
+  font-family:fantasy;
+  background-color:#f1d1b1;
+}
+
+
